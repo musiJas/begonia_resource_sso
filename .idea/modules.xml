@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/begonia_client/begonia_client.iml" filepath="$PROJECT_DIR$/begonia_client/begonia_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/begonia_cmn/begonia_cmn.iml" filepath="$PROJECT_DIR$/begonia_cmn/begonia_cmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/begonia_flt/begonia_flt.iml" filepath="$PROJECT_DIR$/begonia_flt/begonia_flt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/begonia_mgr/begonia_mgr.iml" filepath="$PROJECT_DIR$/begonia_mgr/begonia_mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/begonia_ssp/begonia_ssp.iml" filepath="$PROJECT_DIR$/begonia_ssp/begonia_ssp.iml" />
+    </modules>
+  </component>
+</project>

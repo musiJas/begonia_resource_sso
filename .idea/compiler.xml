@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="begonia_client" />
+        <module name="begonia_cmn" />
+        <module name="begonia_flt" />
+        <module name="begonia_mgr" />
+        <module name="begonia_ssp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="begonia_client" target="1.8" />
+      <module name="begonia_cmn" target="1.8" />
+      <module name="begonia_flt" target="1.8" />
+      <module name="begonia_mgr" target="1.8" />
+      <module name="begonia_ssp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
